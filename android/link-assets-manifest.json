@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Livvic-Bold.ttf",
+      "sha1": "3d8ba45591c90009934f39a826f5409f1c8f53e8"
+    },
+    {
+      "path": "src/assets/fonts/Livvic-Medium.ttf",
+      "sha1": "1df6af0eebda203320bbdd4800b82e26f29ef14f"
+    },
+    {
+      "path": "src/assets/fonts/Livvic-Regular.ttf",
+      "sha1": "f4f988455a7d003879088d76b46a25d87ad3e9bb"
+    },
+    {
+      "path": "src/assets/fonts/Livvic-SemiBold.ttf",
+      "sha1": "7c5274f95f8b004546769ea138c000c8fc5f6548"
+    }
+  ]
+}
